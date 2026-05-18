@@ -49,7 +49,6 @@ A full-stack e-learning web application where instructors can create and publish
 | Node.js + Express 5 | Server & REST API |
 | MongoDB + Mongoose | Database & ODM |
 | JWT + bcryptjs | Authentication & password hashing |
-| Multer | File upload handling |
 | Cloudinary SDK | Cloud media storage |
 | Stripe | Payment processing |
 | Cookie-Parser + CORS | Middleware |
