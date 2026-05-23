@@ -1,4 +1,4 @@
-# 🎓 E-Learning Portal
+# 🎓 SkillForge
 
 A full-stack e-learning web application where instructors can create and publish courses, and students can browse, purchase, and track their learning progress — built with the **MERN stack**.
 
